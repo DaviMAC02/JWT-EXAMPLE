@@ -1,4 +1,4 @@
-# Projeto de exemplo de utilização de JWT em JavaScript
+# Projeto de exemplo de utilização da biblioteca JWT em JavaScript com Node.js
 ## Este projeto tem como objetivo fornecer exemplos de como utilizar a biblioteca JWT (JSON Web Token) em aplicações JavaScript.
 
 ## Funcionalidades
